@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-**I am seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026) as a research scientist, with interests in understanding AI (beyond mechanistic details), or exploring how AI can enhance collective decision-making (and inform policy), or examining AI alignment with human priors and the notion of ultimate good values (do such values truly exist?), or using mechanistic insights from LLMs and neural network theory to expand the space of cognitive hypotheses.**
+**I am seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026), with interests in understanding LLMs (beyond mechanistic details), or exploring how LLMs can enhance collective decision-making (and inform policy), or aligning LLMs with human priors and the ultimate good values (do such values exist?), or using mechanistic insights from LLMs and neural network theory to expand the space of cognitive hypotheses.**
 
 
 I use models to understand behaviors of both biological and artificial agents and explore how computation could be implemented in neural networks. Following the release of GPT-4, my research interest has partially shifted towards understanding the emergence of intelligence within large language models. 
@@ -40,5 +40,4 @@ I am addicted to explore complex ideas. I write some my *controversial* thoughts
 - I enjoy skiing, sick jokes and embarrassing short videos. 
 - Using a second language is painful for me, mostly because I can't help being sarcastic but I can't do it well in English. 
 - I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.  (But large language models also fail to do simple calculations, I am not alone)
-
 
