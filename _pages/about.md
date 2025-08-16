@@ -10,6 +10,9 @@ redirect_from:
 
 
 
+**I am seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026) as a research scientist, with interests in understanding AI (beyond mechanistic details), or exploring how AI can enhance collective decision-making (and inform policy), or examining AI alignment with human priors and the notion of ultimate good values (do such values truly exist?), or using mechanistic insights from LLMs and neural network theory to expand the space of cognitive hypotheses.**
+
+
 I use models to understand behaviors of both biological and artificial agents and explore how computation could be implemented in neural networks. Following the release of GPT-4, my research interest has partially shifted towards understanding the emergence of intelligence within large language models. 
 
 My current research interests include:
@@ -39,5 +42,3 @@ I am addicted to explore complex ideas. I write some my *controversial* thoughts
 - I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.  (But large language models also fail to do simple calculations, I am not alone)
 
 
-
-This website will be slowly updating...
