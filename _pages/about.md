@@ -16,7 +16,7 @@ More specifically:
 
 1. Understanding behaviors of humans and LLMs: I aim to study how humans and large language models behave, reason, and generalize, and what this reveals about the nature of intelligence.
 2. AI alignment as a communication problem: If alignment can be framed as communication, what interfaces (or channels) best support reliable information exchange between humans and AI systems? How can we design AI to improve collective human decision-making—for example, more effective peer-review systems—or to enhance education?
-3. Values for aligning AI: I am interested in what constitutes “good values” for AI systems and how these values should be represented, communicated, and operationalized. ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)).**
+3. Values for aligning AI: I am interested in what constitutes “good values” for AI systems and how these values should be represented, communicated, and operationalized. ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)).
 
 
 # About me
@@ -37,7 +37,7 @@ I am addicted to explore complex ideas. I write some my *controversial* thoughts
 - This stupid username was set when I was a teenager, came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
 - Yet I didn't read much after high school. Suddenly lose my patience with long books. 
 - I am addicted to computer games, but only when there is an exam approaching. Since there are few exams I should take, I seldom play them now. 
-- I enjoy skiing, sick jokes and embarrassing short videos. 
+- I enjoy sick jokes and embarrassing short videos. 
 - Using a second language is painful for me, mostly because I can't help being sarcastic but I can't do it well in English. 
 - I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.  (But large language models also fail to do simple calculations, I am not alone)
 

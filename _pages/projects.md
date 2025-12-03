@@ -6,97 +6,34 @@ author_profile: true
 
 {% include base_path %}
 
-## Education
+# How to understand complex behaviors?
 
-* **2024 -- 2026 (expected):** **Ph.D. Student**, *Cognition & Brain Science*, Georgia Institute of Technology.
-    * Advisor: *Dr. Robert C. Wilson*
-* **2024.7:** **Analytical Connectionism 2024**, New York.
-* **2022 -- 2024:** **Ph.D. Student**, *Cognitive and Neural System Program*, University of Arizona.
-    * Advisor: *Dr. Robert C. Wilson*
-    * **Ph.D. Minor in Computer Science**
-* **2021.7:** **Computational and Cognitive Neuroscience Summer School**, Cold Spring Harbor Asia.
+My work focuses on uncovering the mechanisms underlying human decision-making. Understanding this inherently complex process often relies on explanatory frameworks such as reinforcement learning (RL) models or decision-making traits. However, these frameworks can also become conceptual bottlenecks that limit our ability to capture the full richness of biological behavior.
 
----
+In my PhD research, I use neural networks to model biological behavioral data and identify novel patterns that traditional frameworks may overlook. These insights, in turn, help us design improved explanatory models that better represent the underlying decision processes.
 
-## Publications
-*(\* denotes co-first authors)*
+![research interest]({{ site.baseurl }}/images/work.jpg)
 
-* **bioRxiv:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar, & Robert C. Wilson. 2025. [Human Strategy Adaptation in Reinforcement Learning Resembles Policy Gradient Ascent](https://www.biorxiv.org/content/10.1101/2025.07.28.667308v1).
-* **Nature:** Marcel Binz, Elif Akata, Matthias Bethge, ... **Hua-Dong Xiong**, Eric Schulz. 2025. [A foundation model to predict and capture human cognition](https://www.nature.com/articles/s41586-025-09215-4).
-* **bioRxiv:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar, & Robert C. Wilson. 2025. [Deep Learning Improves Parameter Estimation in Reinforcement Learning Models](https://www.biorxiv.org/content/10.1101/2025.03.21.644663).
-* **NeurIPS 2025:** Li Ji-An\*, **Hua-Dong Xiong\***, Robert C. Wilson, Marcelo Mattar, & Marcus K. Benna. 2025. [Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations](https://arxiv.org/abs/2505.13763).
-* **OSF:** Xie Hanbo, **Hua-Dong Xiong** & Robert C. Wilson. 2025. [Rethinking Think-Aloud in the Age of Language Models](https://osf.io/preprints/psyarxiv/6ta3z_v2).
-* **CogSci 2025:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar, & Robert C. Wilson. 2025. [DynamicRL: Extending Reinforcement Learning Models to Capture Trial-by-Trial Parameter Changes](https://osf.io/4xumc_v2). **Oral (~14%)**
-* **CogSci 2025:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar, & Robert C. Wilson. 2025. [Humans Learn to Weight Evidence Unevenly Over Time](https://osf.io/gf5cp_v2).
-* **COLM 2024:** Hanbo Xie, **Hua-Dong Xiong**, & Robert C. Wilson. 2023. [From Strategic Narratives to Code-Like Cognitive Models: An LLM-Based Approach in A Sorting Task](https://openreview.net/forum?id=1Tny4KgGO2). First Conference on Language Modeling.
-* **NeurIPS 2023 AI for Science:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar, & Robert C. Wilson. 2023. [Distilling human decision-making dynamics: A comparative analysis of low-dimensional architectures](https://openreview.net/forum?id=xW5JQo6TXO). NeurIPS 2023 AI for Science Workshop.
-* **NeurIPS 2023 AI for Science:** Hanbo Xie\*, **Hua-Dong Xiong\***, & Robert C. Wilson. 2023. [Text2Decision: Decoding Latent Variables in Risky Decision Making from Think Aloud Text](https://openreview.net/forum?id=fEoemPDicz). NeurIPS 2023 AI for Science Workshop.
+## Data-driven discovery of novel behavioral patterns
 
----
+Normative conceptual frameworks such as RL have long provided valuable insights into the principles of decision-making. However, these frameworks often produce incomplete characterizations due to modeling biases, subjective parameter tuning, or reliance on idealized assumptions. I addresses this challenge by leveraging the flexibility of neural networks to discover novel behavioral patterns and construct interpretable explanatory frameworks. I characterize individual differences in human exploration through [decision boundaries](https://www.2023.ccneuro.org/view_paper52a7.html?PaperNum=1437&talk), [behavioral dimensionality and symbolic formula](https://openreview.net/forum?id=xW5JQo6TXO), and [attractor geometry](https://2024.ccneuro.org/pdf/615_Paper_authored_ccn2024_horizon_rnn_dynamics_authored.pdf). These explanatory interfaces uncover behavioral patterns that previous models fail to capture, including context-dependent value integration, context-dependent uncertainty modulation, and correlated value update across options. They also generate hypotheses about the underlying neural implementations of these patterns. I also use LLMs to interpret human descriptions of their decision processes through [decision traits](https://openreview.net/forum?id=fEoemPDicz) and [programs](https://openreview.net/forum?id=1Tny4KgGO2). I further leverage LLMs to generate and evaluate explanations of human [think-aloud](https://osf.io/preprints/psyarxiv/6ta3z_v2) and [behaviors](https://www.nature.com/articles/s41586-025-09215-4) at scale. These findings enhance behavioral prediction and interpretation while generating testable hypotheses for future experiments.
 
-## Conference abstract
-*(\* denotes co-first authors)*
+## Meta-learning as a unified framework for understanding behavior. 
 
-* **CogSci 2025:** Hanbo Xie, Jian-Qiao Zhu, **Hua-Dong Xiong**, Robert C. Wilson, Thomas L. Griffiths. 2025. [Reasoning Across Minds and Machines](https://escholarship.org/uc/item/5840n3s1).
-* **CCN 2024:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar and Robert Wilson. 2024. [Characterizing attractor geometry in human decision making via low-dimensional RNNs](https://2024.ccneuro.org/poster/?id=526). Conference on Cognitive Computational Neuroscience 2024.
-* **CCN 2023:** **Hua-Dong Xiong\***, Li Ji-An\*, Marcelo Mattar and Robert Wilson. 2023. Neural network modeling reveals diverse human exploration behaviors via state space analysis. Conference on Cognitive Computational Neuroscience 2023. **Oral (~5%)**
-* **CCN 2022:** **Hua-Dong Xiong** and Xue-Xin Wei. 2022. [Optimal encoding of prior information in noisy working memory systems](https://2022.ccneuro.org/view_paperaf45.html?PaperNum=1162). Conference on Cognitive Computational Neuroscience 2022.
+![follow gradient]({{ site.baseurl }}/images/rl_params_score_landscape.jpg)
 
----
+Although previous explanations for decision-making provide useful insights, they remain fragmented, raising a key question: can we unify them under a normative framework that generalizes across different contexts? Meta-learning offers a promising unifying framework, wherein agents optimize their ongoing learning strategies to adapt to dynamic environments. However, because its normative formulation is inherently goal-optimal, meta-learning cannot directly account for biological behavior, which is often suboptimal. I use neural networks to address this issue in two complementary directions. First, I model how humans adapt RL strategies through experience by estimating RL parameters over time, overcoming limitations of previous models that assume static strategies. Analysis of parameter dynamics reveals a meta-learning process in human decision-making --- specifically, [a real-time refinement of learning strategies that resembles policy gradient ascent](https://www.biorxiv.org/content/10.1101/2025.07.28.667308) used in AI. I then apply this method to ten datasets, where it approaches ceiling performance that recurrent neural network achieves while [maintaining interpretability. In the second direction, I model human strategy adaptation in experiments as a meta-learning process, specifically formulating perceptual integration as a dynamic strategy shaped by ongoing error-driven learning. I extend model-agnostic meta-learning to infer human learning rules, providing [a normative account of uneven evidence-integration kernels](https://osf.io/gf5cp_v2) observed in behavior. Together, this work positions meta-learning as a model of human behavior, captures dynamic strategy adaptation --- an underexplored dimension in prior work --- and bridges learning-to-learn in psychology with meta-learning in AI.
 
-## Skills
+I also demonstrate that many existing cognitive models and their variants can be reformulated as MAML processes (online learning) operating under different objective functions and representations. For instance, a Q-learning model, which integrates the values of different options in multi-armed bandit tasks, can be equivalently viewed as an online prediction problem that minimizes the Bellman error (predicting the next reward) under a one-hot representation of options. This approach will offer novel insights into cognitive models and provide a normative understanding of these tasks by clarifying what objectives should be optimized. Second, building on my prior work, I will demonstrate these strategies can be interpreted as online gradient descent processes induced by different representation spaces, which can be estimated by ANNs. This model can jointly predict behavior and neural activity, providing causal links to behavior. The model estimates a unique representation for each subject, upon which it performs a linear gradient descent, allowing us to analyze individual and task differences as consequences of their underlying representations. 
 
+## Neuroscience-inspired frameworks to understand LLM metacognition.
 
-* **Programming Languages:** Python (Pytorch, mne, Gym), Shell, Julia, Stan, LaTeX, JavaScript (WebPPL, jsPsych), MATLAB, R.
-* **Deep Learning:** Transformers, deep reinforcement learning, using Slurm and Kubernetes, and using large language models.
-* **Computational Modeling:** Bayesian cognitive models, drift-diffusion models, reinforcement learning models, spiking neural network models, artificial neural network models.
-* **Neural Signal Processing:** Multivariate pattern analysis, decoding model, and encoding model.
+![follow gradient]({{ site.baseurl }}/images/llm_nf.jpg)
 
----
+To understand why LLMs sometimes fail to explain their own computational processes, I introduced [a neuroscience-inspired neurofeedback paradigm to quantify their metacognition](https://arxiv.org/abs/2505.13763)—specifically, their ability to explicitly report and control internal activation patterns. I demonstrated that an LLM's metacognitive capacity is limited by the semantic meaningfulness and variance of its neural activations \citep{ji-an_language_2025}. This work not only identified potential adversarial vectors that allow models to evade monitoring but also established a hypothesis regarding the fundamental factors required for robust AI metacognition.
 
-## Grant
+A key neural constraint in LLMs is superposition, where models represent more features than their dimensions. This results in 'polysemantic' neurons analogous to 'mixed selectivity' in neuroscience. This compression affects representational geometry, enabling generalization across related concepts at the cost of interference. This aim investigates how neural constraints in LLMs shape learning and asks how the geometry of superposition (the outer loop's representations) influences ICL (the inner online optimization). I will also examine whether neural geometry constraints on learning cause failures in tasks such as Bayesian evidence integration , as such failures could arise because features cannot be factorized. I extend our Neurofeedback ICL paradigm, which defines features as arbitrary directions in neural activation. This allows me to observe how online learning on selected features interferes with learning on others. I will design experiments using combined features (e.g., 'smart and hardworking' or 'optimistic and depressed') to investigate how ICL is performed when features are correlated and if this correlation is factored out. 
 
-* **2024--2025:** **OpenAI Research Fund** ($5,000 credit).
-    * Project: Beyond Computational Behaviorism – Measuring and Modeling Human Think Aloud
-* **2022--2023:** **Research and Project Grants** ($1,500), University of Arizona.
-    * Project: Identification of Cognitive Algorithms from Behavioral data through neural network modeling.
-* **2018--2019:** **Laboratory Open Fund** (¥2,000), Capital Normal University.
-    * Project: How distractors influence working memory?
-* **2014--2015:** **National College Students' Innovation Training Program** (¥10,000), Shanghai Normal University.
-    * Project: Opinions’ polarization in condition of similar or different cultural value orientations.
+## What is an explanation and how to optimize better explanation?
 
----
-
-## Experience
-
-* **2022 -- Now:** **Research Assistant**, *Robert Wilson's Lab*, Georgia Institute of Technology (Previously at the University of Arizona).
-    * Unifying cognitive computation through the lens of online gradient descent.
-    * Using recurrent neural networks to understand the dynamics of decision-making.
-* **2021 -- 2022:** **Research Assistant**, *Xue-Xin Wei's Lab*, UT Austin.
-    * How feedforward and recurrent connections contribute to encoding prior information in working memory.
-* **2019 -- 2020:** **Research Assistant**, *Da-Hui Wang's Lab*, Beijing Normal University.
-    * Biophysical mechanism of feature binding for multiple 2D working memory items.
-
----
-
-## Teaching
-
-* **2025 Fall:** **Teaching Assistant**, Learning and Memory (PSYC 4025), Georgia Tech.
-* **2025 Summer:** **Teaching Assistant**, General Psychology (PSYC 1101), Georgia Tech.
-* **2025 Spring:** **Teaching Assistant**, Mindfulness: Science & Practice (PSYC 3005), Georgia Tech.
-* **2024:** **Teaching Assistant**, Neuroscience of Mental Health (PSYC 3803), University of Arizona.
-* **2023:** **Teaching Assistant**, Healthy Psychology, University of Arizona.
-* **2022:** **Teaching Assistant**, Healthy Psychology, University of Arizona.
-* **2022:** **Project Teaching Assistant**, Computational Neuroscience, Neuromatch Academy.
-* **2021:** **Tutorial Teaching Assistant**, Computational Neuroscience, Neuromatch Academy.
-* **2021:** **Tutor**, Workshop on MVPA in EEG, Capital Normal University.
-
----
-
-## Services
-
-* **Reviewer:** 2025: NeurIPS 2025 conference
-* **Reviewer:** 2025: CogSci 2025 conference
-* **Reviewer:** 2024: CCN conference
-* **Reviewer:** 2023: CCN conference
-* **Reviewer:** 2022: CCN conference
+![follow gradient]({{ site.baseurl }}/images/science_progress.jpg)
