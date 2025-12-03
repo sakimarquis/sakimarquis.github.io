@@ -10,7 +10,13 @@ redirect_from:
 
 
 
-**I am seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026), with interests in understanding LLMs (beyond mechanistic details), or exploring how LLMs can enhance collective decision-making (and inform policy), or aligning LLMs with human priors and the ultimate good values ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)), or using mechanistic insights from LLMs and neural network theory to expand the space of cognitive hypotheses.**
+I am actively seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026). My overarching research interest is to understand the right interface (level of abstraction) for studying intelligence. I am deeply intrigued by this question and am looking for opportunities that allow me to explore it from multiple angles.
+
+More specifically:
+
+1. Understanding behaviors of humans and LLMs: I aim to study how humans and large language models behave, reason, and generalize, and what this reveals about the nature of intelligence.
+2. AI alignment as a communication problem: If alignment can be framed as communication, what interfaces (or channels) best support reliable information exchange between humans and AI systems? How can we design AI to improve collective human decision-making—for example, more effective peer-review systems—or to enhance education?
+3. Values for aligning AI: I am interested in what constitutes “good values” for AI systems and how these values should be represented, communicated, and operationalized. ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)).**
 
 
 # About me
