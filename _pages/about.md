@@ -13,17 +13,11 @@ redirect_from:
 **I am seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026), with interests in understanding LLMs (beyond mechanistic details), or exploring how LLMs can enhance collective decision-making (and inform policy), or aligning LLMs with human priors and the ultimate good values ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)), or using mechanistic insights from LLMs and neural network theory to expand the space of cognitive hypotheses.**
 
 
-I use models to understand behaviors of both biological and artificial agents and explore how computation could be implemented in neural networks. Following the release of GPT-4, my research interest has partially shifted towards understanding the emergence of intelligence within large language models. 
-
-My current research interests include:
-
-- Use recurrent neural network as cognitive model to identify the hidden variables in decision-making across species.
-- Examine the ways prior information could be encoded in working memory system through optimization-based neural network models.
-- Investigate how humans utilize language as a tool of control and agency through dialogue. 
-
 # About me
 
-I am a first year PhD student in the Cognition and Neural Systems Program at the University of Arizona. I work with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+I am a 4th-year Ph.D. student in Psychology at the Georgia Institute of Technology, advised by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ), and I collaborate closely with [Marcelo Mattar](https://scholar.google.com/citations?user=tcCGGDsZJUsC) at NYU. The goal of my PhD work is to understand how intelligent agents, both biological and artificial, learn efficiently to adapt to complex and dynamic environments. I aim to identify adaptive priors that guide effective learning. To tackle this question, I develop AI-based computational tools to probe these priors in humans and use insights from human cognition to understand AI. My research integrates cognitive science, neuroscience, and artificial intelligence to uncover the fundamental principles of intelligence.
+
+Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
