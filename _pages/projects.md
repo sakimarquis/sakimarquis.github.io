@@ -37,3 +37,5 @@ A key neural constraint in LLMs is superposition, where models represent more fe
 ## What is an explanation and how to optimize better explanation?
 
 ![follow gradient]({{ site.baseurl }}/images/science_progress.jpg)
+
+Understanding is an evolving process that involves developing increasingly refined explanatory concepts. Just as scientific progress depends on improving abstractions, understanding AI requires new conceptual tools.
