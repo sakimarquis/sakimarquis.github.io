@@ -12,7 +12,7 @@ My work focuses on uncovering the mechanisms underlying human decision-making. U
 
 In my PhD research, I use neural networks to model biological behavioral data and identify novel patterns that traditional frameworks may overlook. These insights, in turn, help us design improved explanatory models that better represent the underlying decision processes.
 
-![research interest]({{ site.baseurl }}/images/work.jpg)
+![research interest]({{ site.baseurl }}/images/work.png)
 
 ## Data-driven discovery of novel behavioral patterns
 
@@ -20,7 +20,7 @@ Normative conceptual frameworks such as RL have long provided valuable insights 
 
 ## Meta-learning as a unified framework for understanding behavior. 
 
-![follow gradient]({{ site.baseurl }}/images/rl_params_score_landscape.jpg)
+![follow gradient]({{ site.baseurl }}/images/rl_params_score_landscape.png)
 
 Although previous explanations for decision-making provide useful insights, they remain fragmented, raising a key question: can we unify them under a normative framework that generalizes across different contexts? Meta-learning offers a promising unifying framework, wherein agents optimize their ongoing learning strategies to adapt to dynamic environments. However, because its normative formulation is inherently goal-optimal, meta-learning cannot directly account for biological behavior, which is often suboptimal. I use neural networks to address this issue in two complementary directions. First, I model how humans adapt RL strategies through experience by estimating RL parameters over time, overcoming limitations of previous models that assume static strategies. Analysis of parameter dynamics reveals a meta-learning process in human decision-making --- specifically, [a real-time refinement of learning strategies that resembles policy gradient ascent](https://www.biorxiv.org/content/10.1101/2025.07.28.667308) used in AI. I then apply this method to ten datasets, where it approaches ceiling performance that recurrent neural network achieves while [maintaining interpretability. In the second direction, I model human strategy adaptation in experiments as a meta-learning process, specifically formulating perceptual integration as a dynamic strategy shaped by ongoing error-driven learning. I extend model-agnostic meta-learning to infer human learning rules, providing [a normative account of uneven evidence-integration kernels](https://osf.io/gf5cp_v2) observed in behavior. Together, this work positions meta-learning as a model of human behavior, captures dynamic strategy adaptation --- an underexplored dimension in prior work --- and bridges learning-to-learn in psychology with meta-learning in AI.
 
@@ -28,7 +28,7 @@ I also demonstrate that many existing cognitive models and their variants can be
 
 ## Neuroscience-inspired frameworks to understand LLM metacognition.
 
-![follow gradient]({{ site.baseurl }}/images/llm_nf.jpg)
+![follow gradient]({{ site.baseurl }}/images/llm_nf.png)
 
 To understand why LLMs sometimes fail to explain their own computational processes, I introduced [a neuroscience-inspired neurofeedback paradigm to quantify their metacognition](https://arxiv.org/abs/2505.13763)—specifically, their ability to explicitly report and control internal activation patterns. I demonstrated that an LLM's metacognitive capacity is limited by the semantic meaningfulness and variance of its neural activations \citep{ji-an_language_2025}. This work not only identified potential adversarial vectors that allow models to evade monitoring but also established a hypothesis regarding the fundamental factors required for robust AI metacognition.
 
@@ -36,6 +36,6 @@ A key neural constraint in LLMs is superposition, where models represent more fe
 
 ## What is an explanation and how to optimize better explanation?
 
-![follow gradient]({{ site.baseurl }}/images/science_progress.jpg)
+![follow gradient]({{ site.baseurl }}/images/science_progress.png)
 
 Understanding is an evolving process that involves developing increasingly refined explanatory concepts. Just as scientific progress depends on improving abstractions, understanding AI requires new conceptual tools.
