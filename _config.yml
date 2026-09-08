@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hua-Dong Xiong | 熊华东"
 title_separator          : "-"
 name                     : &name "Hua-Dong Xiong"
-description              : &description "PhD student at the Georgia Tech"
+description              : &description "Postdoc at the University of Chicago"
 url                      : https://sakimarquis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sakimarquis/sakimarquis.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hua-Dong Xiong"
   avatar           : "profile.jpg"
-  bio              : "I study human and machine intelligence, exploring the principles that underlie both."
-  location         : "Atlanta, GA"
-  employer         : "Georgia Tech"
+  bio              : "How does what we already know shape what we learn next?"
+  location         : "Chicago, IL"
+  employer         : "University of Chicago"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8Bv3i7gAAAAJ&hl=en"
-  email            : "hdx@gatech.edu"
+  email            : "hdx@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

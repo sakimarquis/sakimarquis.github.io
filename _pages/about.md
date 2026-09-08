@@ -8,36 +8,30 @@ redirect_from:
   - /about.html
 ---
 
+My research asks how humans, AI, and scientific communities learn, and how the concepts and models they use shape what they can learn next. I am also interested in how the structure and limits of the human mind shape the knowledge we can develop and share. An explanation needs to fit what we observe, but it also needs to be simple enough for us to understand and use. I want to find levels of abstraction for understanding intelligence that explain behavior, connect findings across different tasks and systems, and work within these human constraints.
 
+I am now a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in science. A research community's shared concepts and methods guide which hypotheses it considers and which it overlooks. I study the biases humans and AI bring to this process: does AI mainly recombine ideas within the space humans have already explored, or can it expand that space in scientifically useful ways? My earlier finding that large language models (LLMs) can [evaluate hypotheses better than they generate them](https://arxiv.org/abs/2605.05851) in a controlled task motivates this question. I want to use this understanding to build AI systems that help scientists explore and test ideas they would otherwise miss.
 
-I am actively seeking internship opportunities (starting now) as well as postdoctoral and industry positions (starting Summer 2026). My overarching research interest is to understand the right interface (level of abstraction) for studying intelligence. I am deeply intrigued by this question and am looking for opportunities that allow me to explore it from multiple angles.
+**I am looking for full-time Research Scientist positions in automated science and AI alignment.** If you're interested in collaborating, please feel free to email me.
 
-More specifically:
+During my PhD in Psychology at the Georgia Institute of Technology, advised by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ), I asked a similar question about the concepts researchers use to explain human decisions. I used recurrent neural networks, with fewer assumptions about decision making, to examine what conventional models treat as noise and revise the vocabulary those models use. This led to an online learning perspective: people learn both about the world and how to change their learning strategies, with strategy changes resembling policy gradient ascent.
 
-1. Understanding behaviors of humans and LLMs: I aim to study how humans and large language models behave, reason, and generalize, and what this reveals about the nature of intelligence.
-2. AI alignment as a communication problem: If alignment can be framed as communication, what interfaces (or channels) best support reliable information exchange between humans and AI systems? How can we design AI to improve collective human decision-making—for example, more effective peer-review systems—or to enhance education?
-3. Values for aligning AI: I am interested in what constitutes “good values” for AI systems and how these values should be represented, communicated, and operationalized. ([do such values exist?](https://sakimarquis.github.io/posts/2025/08/what-to-align/)).
+I also studied in-context learning in LLMs, where a model learns from a prompt without changing its trained weights. This let me examine how [existing representations shape new learning](https://arxiv.org/abs/2605.28854) and [cause interference between memories](https://arxiv.org/abs/2604.09670). My PhD collaborations included [Marcelo Mattar](https://scholar.google.com/citations?user=tcCGGDsZJUsC) at NYU and Li Ji-An at UCSD, with part of my LLM work done with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin and [Kwonjoon Lee](https://scholar.google.com/citations?user=C6Wu8M0AAAAJ&hl=en) at Honda Research Institute. More details are on my [Projects page]({{ site.baseurl }}/projects/).
 
-
-# About me
-
-I am a 4th-year Ph.D. student in Psychology at the Georgia Institute of Technology, advised by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ), and I collaborate closely with [Marcelo Mattar](https://scholar.google.com/citations?user=tcCGGDsZJUsC) at NYU. The goal of my PhD work is to understand how intelligent agents, both biological and artificial, learn efficiently to adapt to complex and dynamic environments. I aim to identify adaptive priors that guide effective learning. To tackle this question, I develop AI-based computational tools to probe these priors in humans and use insights from human cognition to understand AI. My research integrates cognitive science, neuroscience, and artificial intelligence to uncover the fundamental principles of intelligence.
-
-Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+Before my PhD, I worked with [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University, developing spiking neural network models to investigate the biophysical mechanisms of binding features across two dimensions in multi-item working memory. With Xue-Xin Wei, I developed a recurrent neural network model to investigate the neural mechanisms underlying how working memory represents prior distributions over stimuli. Earlier, I used EEG to study working memory and studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
 ## Some of my writing
 
-I am addicted to explore complex ideas. I write some my *controversial* thoughts on how we understand the world around us. See **Blog Posts**. I hope you find these ideas interesting! Feel free to share your thoughts or comments with me via email—I'd love to hear your perspective.
+I also [write about cognition, science, and the concepts we use to understand the world]({{ site.baseurl }}/year-archive/). If something interests you, feel free to email me. I'd like to hear what you think.
 
 ## Some interesting facts:
 
-- I enjoyed reading when I was young. My favorite writers are James Joyce, Milan Kundera, Jorge Borges, Franz Kafka , Dostoyevsky and Edgar Allan Poe. 
-- This stupid username was set when I was a teenager, came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
-- Yet I didn't read much after high school. Suddenly lose my patience with long books. 
-- I am addicted to computer games, but only when there is an exam approaching. Since there are few exams I should take, I seldom play them now. 
+- I enjoyed reading when I was young. My favorite writers are James Joyce, Milan Kundera, Jorge Borges, Franz Kafka, Dostoyevsky and Edgar Allan Poe.
+- I chose this stupid username (sakimarquis) as a teenager. It came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
+- Yet I haven't read much since high school. I suddenly lost my patience with long books.
+- I am addicted to computer games, but only when an exam is approaching. Since I have few exams to take, I seldom play them now.
 - I enjoy sick jokes and embarrassing short videos. 
 - Using a second language is painful for me, mostly because I can't help being sarcastic but I can't do it well in English. 
-- I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.  (But large language models also fail to do simple calculations, I am not alone)
-
+- I am bad at calculating. I often mess up single-digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience. (But large language models also fail at simple calculations, so I am not alone.)
