@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My research asks how humans, AI, and scientific communities learn, and how the concepts and models they use shape what they can learn next. I am also interested in how the structure and limits of the human mind shape the knowledge we can develop and share. An explanation needs to fit what we observe, but it also needs to be simple enough for us to understand and use. I want to find levels of abstraction for understanding intelligence that explain behavior, connect findings across different tasks and systems, and work within these human constraints.
+What is intelligence? One way to understand it is through the lens of learning. Humans observe sparse and ambiguous data, yet from those, humans develop rich internal models to make inferences about the world. Given just a few in-context examples, large language models (LLMs) can also generalize to solve novel tasks. I study the behavior of humans and LLMs to understand their inductive biases and how those guide their learning. What makes a good inductive bias for guiding learning, and how do inductive biases constrain learning, leading to good or bad generalization?
 
-I am now a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in science. A research community's shared concepts and methods guide which hypotheses it considers and which it overlooks. I study the biases humans and AI bring to this process: does AI mainly recombine ideas within the space humans have already explored, or can it expand that space in scientifically useful ways? My earlier finding that large language models (LLMs) can [evaluate hypotheses better than they generate them](https://arxiv.org/abs/2605.05851) in a controlled task motivates this question. I want to use this understanding to build AI systems that help scientists explore and test ideas they would otherwise miss.
+Through this framework, science can also be viewed as a learning process, one that constructs priors for humans and AI to learn from. What is the best form of knowledge that explains the world but also fits the structure of the human mind? How can we describe the space of all possible forms of knowledge, constrained by the structure of the human mind?
 
-**I am looking for full-time Research Scientist positions in automated science and AI alignment.** If you're interested in collaborating, please feel free to email me.
+I am a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in the context of AI for science and AI alignment.
 
 During my PhD in Psychology at the Georgia Institute of Technology, advised by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ), I asked a similar question about the concepts researchers use to explain human decisions. I used recurrent neural networks, with fewer assumptions about decision making, to examine what conventional models treat as noise and revise the vocabulary those models use. This led to an online learning perspective: people learn both about the world and how to change their learning strategies, with strategy changes resembling policy gradient ascent.
 
@@ -21,6 +21,14 @@ I also studied in-context learning in LLMs, where a model learns from a prompt w
 Before my PhD, I worked with [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University, developing spiking neural network models to investigate the biophysical mechanisms of binding features across two dimensions in multi-item working memory. With Xue-Xin Wei, I developed a recurrent neural network model to investigate the neural mechanisms underlying how working memory represents prior distributions over stimuli. Earlier, I used EEG to study working memory and studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
+
+## I am on the job market
+
+**I am looking for full-time Research Scientist and faculty positions** in using AIs to model human behavior (including the science process) and AI alignment.
+
+## Want to collaborate or chat?
+
+I'm always happy to collaborate. Whether you're interested in my research or just want to chat about science, shoot me an email. If you're at UChicago, even better. I'm usually at the Knowledge Lab (1155 E 60th St), Room 203. Feel free to just walk in.
 
 ## Some of my writing
 
