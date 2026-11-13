@@ -399,3 +399,41 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Inline video toggle next to a paper link */
+.paper-video {
+  display: inline;
+
+  summary {
+    display: inline;
+    cursor: pointer;
+    font-size: $type-size-6;
+    color: $link-color;
+    list-style: none;
+    margin-left: 0.25em;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  &[open] .video-embed {
+    display: block;
+  }
+}
+
+.video-embed {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  aspect-ratio: 16 / 9;
+  margin: 0.5em 0 1em;
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}

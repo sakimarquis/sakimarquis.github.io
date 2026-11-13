@@ -1,30 +1,38 @@
 ---
 permalink: /
-title: "Hi! I am Huadong"
-excerpt: "About me"
+title: Hua-Dong Xiong | Science of intelligence
+excerpt: About me
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-What is intelligence? One way to understand it is through the lens of learning. Humans observe sparse and ambiguous data, yet from those, humans develop rich internal models to make inferences about the world. Given just a few in-context examples, large language models (LLMs) can also generalize to solve novel tasks. I study the behavior of humans and LLMs to understand their inductive biases and how those guide their learning. What makes a good inductive bias for guiding learning, and how do inductive biases constrain learning, leading to good or bad generalization?
+# Understanding human and machine intelligence through the lens of learning
 
-Through this framework, science can also be viewed as a learning process, one that constructs priors for humans and AI to learn from. What is the best form of knowledge that explains the world but also fits the structure of the human mind? How can we describe the space of all possible forms of knowledge, constrained by the structure of the human mind?
+Humans observe sparse and ambiguous data, yet from those, humans develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to solve novel tasks given just a few in-context examples. I study the behavior of humans and LLMs to understand their inductive biases and how those guide their learning. My goal is to understand what makes a good inductive bias, and how inductive biases constrain and guide learning, leading to good or bad generalization.
 
-I am a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in the context of AI for science and AI alignment.
+Through this framework, science can also be viewed as a learning process, constructing and updating priors for better future learning. What is the best form of knowledge that explains the world but also fits the structure of the human mind? How can we describe the space of all possible forms of knowledge, constrained by the structure of the human mind ([a universal grammar of knowledge](https://www.pnas.org/doi/abs/10.1073/pnas.0802631105))?
 
-During my PhD in Psychology at the Georgia Institute of Technology, advised by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ), I asked a similar question about the concepts researchers use to explain human decisions. I used recurrent neural networks, with fewer assumptions about decision making, to examine what conventional models treat as noise and revise the vocabulary those models use. This led to an online learning perspective: people learn both about the world and how to change their learning strategies, with strategy changes resembling policy gradient ascent.
+I am currently a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in the context of AI for science and AI alignment.
 
-I also studied in-context learning in LLMs, where a model learns from a prompt without changing its trained weights. This let me examine how [existing representations shape new learning](https://arxiv.org/abs/2605.28854) and [cause interference between memories](https://arxiv.org/abs/2604.09670). My PhD collaborations included [Marcelo Mattar](https://scholar.google.com/citations?user=tcCGGDsZJUsC) at NYU and Li Ji-An at UCSD, with part of my LLM work done with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin and [Kwonjoon Lee](https://scholar.google.com/citations?user=C6Wu8M0AAAAJ&hl=en) at Honda Research Institute. More details are on my [Projects page]({{ site.baseurl }}/projects/).
+Some of my studies (some with videos to illustrate the ideas):
 
-Before my PhD, I worked with [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University, developing spiking neural network models to investigate the biophysical mechanisms of binding features across two dimensions in multi-item working memory. With Xue-Xin Wei, I developed a recurrent neural network model to investigate the neural mechanisms underlying how working memory represents prior distributions over stimuli. Earlier, I used EEG to study working memory and studied counseling psychology with a focus on cognitive behavioral therapy.
+1. How representational structure constrains learning:
+   - [Metacognition in LLMs (NeurIPS 2025)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/56a225639da77e8f7c0409f6d5ba996b-Abstract-Conference.html)
+   - [Large language models reorganize representational geometry during in-context learning](https://openreview.net/forum?id=MPsP7vOdcO) <details class="paper-video"><summary>▶ Video</summary><div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/QNRk3Q872MU" title="Large language models reorganize representational geometry during in-context learning" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>
+   - [In-context superposition: working memory limit in LLMs (COLM 2026)](https://openreview.net/forum?id=g1hMOOAX2n) <details class="paper-video"><summary>▶ Video</summary><div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/f6f8kU6lUGM" title="In-context superposition: working memory limit in LLMs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>
+   - [Hypothesis generation and updating in large language models](https://arxiv.org/abs/2605.05851)
+2. Models of human behavior:
+   - [Humans adapt to the environment online like policy gradient descent](https://www.biorxiv.org/content/10.1101/2025.07.28.667308.abstract)
+   - [Foundation model of human behavior](https://www.nature.com/articles/s41586-025-09215-4)
+   - [Using human think-aloud to predict behavior](https://osf.io/preprints/psyarxiv/6ta3z)
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
 ## I am on the job market
 
-**I am looking for full-time Research Scientist and faculty positions** in using AIs to model human behavior (including the science process) and AI alignment.
+I am looking for full-time Research Scientist and faculty positions in using AIs to model human behavior (including the scientific process) and AI alignment.
 
 ## Want to collaborate or chat?
 
