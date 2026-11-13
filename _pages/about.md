@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Understanding human and machine intelligence through the lens of learning
+# Understanding intelligence through the lens of (meta-)learning
 
 Humans observe sparse and ambiguous data, yet from those, humans develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to solve novel tasks given just a few in-context examples. I study the behavior of humans and LLMs to understand their inductive biases and how those guide their learning. My goal is to understand what makes a good inductive bias, and how inductive biases constrain/guide learning, leading to good or bad generalization.
 
