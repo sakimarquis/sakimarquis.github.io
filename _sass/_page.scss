@@ -402,22 +402,14 @@
 
 /* Inline video toggle next to a paper link */
 .paper-video {
-  display: inline;
-
   summary {
-    display: inline;
     cursor: pointer;
     font-size: $type-size-6;
     color: $link-color;
-    list-style: none;
-    margin-left: 0.25em;
-
-    &::-webkit-details-marker {
-      display: none;
-    }
   }
+}
 
-  &[open] .video-embed {
+.video-embed {
     display: block;
   }
 }
