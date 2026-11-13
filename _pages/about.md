@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Intelligence as priors
+# Intelligence in how priors shape learning
 
 Humans observe sparse and ambiguous data, yet from it they develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to novel tasks from just a few in-context examples. How is that possible? These intelligent agents, humans and LLMs alike, have good priors that guide their learning and generalization efficiently. I work on understanding the structure of priors: what makes a good inductive bias, and how inductive biases constrain/guide learning, leading to good or bad generalization.
 
