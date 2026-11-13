@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hua-Dong Xiong | Science of intelligence
+title: Hua-Dong Xiong | Science of priors
 excerpt: About me
 author_profile: true
 redirect_from:
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Understanding intelligence through the lens of (meta-)learning
+# Intelligence as priors
 
-Humans observe sparse and ambiguous data, yet from those, humans develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to solve novel tasks given just a few in-context examples. I study the behavior of humans and LLMs to understand their inductive biases and how those guide their learning. My goal is to understand what makes a good inductive bias, and how inductive biases constrain/guide learning, leading to good or bad generalization.
+Humans observe sparse and ambiguous data, yet from it they develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to novel tasks from just a few in-context examples. How is that possible? These intelligent agents, humans and LLMs alike, have good priors that guide their learning and generalization efficiently. I work on understanding the structure of priors: what makes a good inductive bias, and how inductive biases constrain/guide learning, leading to good or bad generalization.
 
 Science can also be viewed as a learning process, constructing and updating priors for better future learning. What is the best form of knowledge that explains the world but also fits the structure of the human mind? How can we describe the space of all possible forms of knowledge, constrained by the structure of the human mind ([a universal grammar of knowledge](https://www.pnas.org/doi/abs/10.1073/pnas.0802631105))?
 
