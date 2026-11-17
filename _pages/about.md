@@ -10,15 +10,17 @@ redirect_from:
 
 # Intelligence in how priors shape learning
 
-Humans observe sparse and ambiguous data, yet from it they develop rich internal models to make inferences about the world. Large language models (LLMs) can also generalize to novel tasks from just a few in-context examples. How is that possible? These intelligent agents, humans and LLMs alike, have good priors that guide their learning and generalization efficiently. I work on understanding the structure of priors: what makes a good inductive bias, and how inductive biases constrain/guide learning, leading to good or bad generalization.
+I am a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying how priors in humans, LLMs, and scientific communities shape the way each explore hypothesis space.
 
-Science can also be viewed as a learning process, constructing and updating priors for better future learning. What is the best form of knowledge that explains the world but also fits the structure of the human mind? How can we describe the space of all possible forms of knowledge, constrained by the structure of the human mind ([a universal grammar of knowledge](https://www.pnas.org/doi/abs/10.1073/pnas.0802631105))?
+Humans observe sparse and ambiguous data, yet from it they develop rich internal models to make inferences about the world. LLMs not only generalize to novel tasks from a few in-context examples; their still poorly understood priors also guide their reasoning into spaces humans have not explored. Both have good priors that make their learning and search efficient. Of course, as [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) claims, search and learning can scale by using massive amounts of computation. But we might not want to let monkeys at typewriters do it for us (at least we should give them some tokens).
 
-I am currently a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying these questions in the context of AI for science and AI alignment.
+Seen this way, science is also prior-guided learning and search. The knowledge it produces is jointly constrained by the structure of the world and the structure of the human mind. How, then, can we describe the space of all possible forms of knowledge (perhaps with [a universal grammar of knowledge](https://www.pnas.org/doi/abs/10.1073/pnas.0802631105))?
 
-Some of my studies (some with 5-minute videos walking through the main results):
+I work on understanding intelligence through the structure of priors: what makes a good prior (inductive bias), how priors constrain and guide learning and search in individuals, models, and communities, and how to shape knowledge so that it fits the human mind.
 
-1. How representational structure constrains online learning:
+Some of my work (some with 5-minute videos walking through the main results):
+
+1. How representational structure constrains online learning and search:
    - [Metacognition in LLMs](https://proceedings.neurips.cc/paper_files/paper/2025/hash/56a225639da77e8f7c0409f6d5ba996b-Abstract-Conference.html) (NeurIPS 2025)
    - [Neural constraints on in-context learning](https://openreview.net/forum?id=MPsP7vOdcO) (COLM 2026){::nomarkdown}<details class="paper-video"><summary>🎬 Click to watch the video</summary><div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/QNRk3Q872MU" title="Large language models reorganize representational geometry during in-context learning" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>{:/}
    - [In-context superposition: working memory limit in LLMs](https://openreview.net/forum?id=g1hMOOAX2n)  (COLM 2026) {::nomarkdown}<details class="paper-video"><summary>🎬 Click to watch the video</summary><div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/f6f8kU6lUGM" title="In-context superposition: working memory limit in LLMs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>{:/}
@@ -32,15 +34,21 @@ The pronunciation of my name is "HWAH-doang SHAWNG".
 
 ## I am on the job market
 
-I am looking for full-time Research Scientist and faculty positions in using AIs to model human behavior (including the scientific process) and AI alignment.
+I am looking for full-time Research Scientist and faculty positions on using AI to model human behavior (including the scientific process) and AI alignment.
 
 ## Want to collaborate or chat?
 
-I'm always happy to collaborate. Whether you're interested in my research or just want to chat about science, shoot me an email. If you're at UChicago, even better. I'm usually at the Knowledge Lab (1155 E 60th St), Room 203. Feel free to just walk in.
+I'm always happy to collaborate. Whether you're interested in my research or just want to chat about science, shoot me an email. If you're at UChicago, I'm usually at the Knowledge Lab (1155 E 60th St), Room 203. Feel free to just walk in.
+
+## My trajectory
+
+In my PhD, I used neural networks as models and meta-learning as theory to understand human decision making, mentored by [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ) at Georgia Tech, collaborating with [Ji-An Li](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en) and [Marcelo Mattar](https://scholar.google.com/citations?user=tcCGGDsZJUsC). Before that, I was mentored by [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin on RNN models of working memory. Before that, by [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University on spiking network models of working memory. Before that, I used EEG to study working memory and studied counseling psychology.
 
 ## Some of my writing
 
-I also [write about cognition, science, and the concepts we use to understand the world]({{ site.baseurl }}/year-archive/). If something interests you, feel free to email me. I'd like to hear what you think.
+I also [write about cognition, science, and the concepts we use to understand the world]({{ site.baseurl }}/year-archive/). If something interests you, feel free to email me. I'd like to hear what you think. 
+
+I wish I had more time to write something [meaningless](https://sakimarquis.github.io/posts/2025/08/meaningless-abstraction/).
 
 ## Some interesting facts:
 
