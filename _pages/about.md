@@ -10,7 +10,7 @@ redirect_from:
 
 # Intelligence in how priors shape learning
 
-I am a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying how priors in humans, LLMs, and scientific communities shape the way each explore hypothesis space.
+I am a postdoc with [James Evans](https://sociology.uchicago.edu/directory/james-evans) at the University of Chicago, studying how priors in humans, LLMs, and scientific communities shape the way each explores hypothesis space.
 
 Humans observe sparse and ambiguous data, yet from it they develop powerful internal models to make inferences about the world. LLMs not only generalize to novel tasks from a few in-context examples; their still poorly understood priors also guide their reasoning into spaces humans have not explored. Both humans and LLMs have good priors that make their learning and search efficient (Of course, as [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) claims, search and learning can scale by using massive amounts of computation. But we might not want monkey typewriters to do it, at least we should give them some tokens).
 
@@ -38,7 +38,7 @@ I am looking for full-time Research Scientist and faculty positions on using AI 
 
 ## Want to collaborate or chat?
 
-I'm always happy to collaborate. Whether you're interested in my research or just want to chat about science, shoot me an email. If you're at UChicago, I'm usually at the Knowledge Lab (1155 E 60th St), Room 203. Feel free to just walk in.
+I’m always happy to collaborate. Whether you’re interested in my research, want to chat about science, or are figuring out how to do research in graduate school, shoot me an email. My own path has had a few detours, so I might have something to say. If you’re at UChicago, I’m usually at the Knowledge Lab (1155 E 60th St), Room 203. Feel free to just walk in.
 
 ## My trajectory
 
