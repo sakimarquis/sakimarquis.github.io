@@ -53,7 +53,7 @@ I wish I had more time to write something [meaningless](https://sakimarquis.gith
 ## Some interesting facts:
 
 - I enjoyed reading when I was young. My favorite writers are James Joyce, Milan Kundera, Jorge Borges, Franz Kafka, Dostoyevsky and Edgar Allan Poe.
-- I chose this stupid username (sakimarquis) as a teenager. It came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
+- I chose this stupid username (sakimarquis) back in middle school. It came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
 - Yet I haven't read much since high school. I suddenly lost my patience with long books.
 - I am addicted to computer games, but only when an exam is approaching. Since I have few exams to take, I seldom play them now.
 - I enjoy sick jokes and embarrassing short videos. 
